@@ -1,0 +1,28 @@
+SMAP
+ViewAssignments_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewAssignments.jsp
+ViewAssignments.jsp
++ 1 connection.jsp
+connection.jsp
++ 2 Studentprofilecss.html
+Studentprofilecss.html
+*L
+1:54
+1#1,9:55
+9:13
+9,2:64
+10,4:66
+13,3:70
+2#0,15:73
+1#2,41:87
+16#0,18:127
+35,7:147
+41,3:154
+44,4:157,3
+48,5:169
+52,2:174
+53,7:176
+*E

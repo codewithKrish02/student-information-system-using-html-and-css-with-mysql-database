@@ -1,0 +1,30 @@
+SMAP
+viewStudentdata_jsp.java
+JSP
+*S JSP
+*F
++ 0 connection.jsp
+connection.jsp
++ 1 viewStudentdata.jsp
+viewStudentdata.jsp
++ 2 Adminprofilecss.html
+Adminprofilecss.html
+*L
+1,9:53
+9:12
+9,2:62
+10,4:64
+13,3:68
+1#1,15:71
+1#2,28:85
+15#1,6:112
+20,24:118
+44,5:143
+48,2:148
+50,13:150,3
+63:189
+64:190,5
+65,2:195
+66,2:197
+67,7:199
+*E

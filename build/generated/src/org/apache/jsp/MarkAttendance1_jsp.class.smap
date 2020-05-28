@@ -1,0 +1,29 @@
+SMAP
+MarkAttendance1_jsp.java
+JSP
+*S JSP
+*F
++ 0 connection.jsp
+connection.jsp
++ 1 MarkAttendance1.jsp
+MarkAttendance1.jsp
++ 2 Facultyprofilecss.html
+Facultyprofilecss.html
+*L
+1,9:53
+9:12
+9,2:62
+10,4:64
+13,3:68
+1#1,15:71
+1#2,35:85
+15#1,6:119
+20,15:125
+35,5:141
+39,3:146
+42:149,3
+43:152,5
+44,10:157
+53,2:167
+54,11:169
+*E

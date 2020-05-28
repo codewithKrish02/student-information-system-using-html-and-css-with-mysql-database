@@ -1,0 +1,29 @@
+SMAP
+viewContact_jsp.java
+JSP
+*S JSP
+*F
++ 0 connection.jsp
+connection.jsp
++ 1 viewContact.jsp
+viewContact.jsp
++ 2 Adminprofilecss.html
+Adminprofilecss.html
+*L
+1,9:53
+9:12
+9,2:62
+10,4:64
+13,3:68
+1#1,16:71
+1#2,28:86
+16#1,4:113
+21:118,2
+22,13:120
+35,6:134
+40,2:140
+42,3:142,3
+45,3:151
+47,2:154
+48,7:156
+*E
